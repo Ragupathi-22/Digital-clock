@@ -1,0 +1,41 @@
+body{
+    font-size: large;
+}
+#main{
+    /* border: 1px solid black; */
+    display: flex;
+    /* width: 600px; */
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;
+    gap: 20px;
+    
+  
+}
+
+#main div{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius:20px;
+    background-color: rgb(159, 216, 218);
+}
+#main2{
+    border: 1px solid black;
+    margin-top: 20px;
+    width: 310px;
+    display: flex;
+    margin-left: 170px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(147, 201, 201);
+}
+#main2 div{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+h4
+{
+    color: rgba(209, 14, 14, 0.288);
+}
